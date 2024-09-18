@@ -1,1 +1,1 @@
-      meu-primeiro-repositori  imples ao arquivo, como uma descrição do projeto ou uma saudação, ex: "Este é meu primeiro repositório no GitHub!". 47.Na seção Commit changes: • Escreva uma mensagem de commit clara (ex: "Adicionei    
+   Este é meu primeiro repositório no GitHub! 
